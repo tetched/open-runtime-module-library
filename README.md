@@ -3,7 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/v/orml-tokens)](https://crates.io/search?q=orml)
 [![GitHub](https://img.shields.io/github/license/open-web3-stack/open-runtime-module-library)](https://github.com/open-web3-stack/open-runtime-module-library/blob/master/LICENSE)
 
-The Open Runtime Module Library (ORML) is a community maintained collection of Substrate runtime modules.
+The Open Runtime Module Library (ORML) is a community maintained collection of Tetcore runtime modules.
 
 ## Runtime Modules Overview
 
